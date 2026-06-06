@@ -1,0 +1,13 @@
+{
+  "name": "industrial-maps-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix industrial-maps run dev",
+    "build": "npm --prefix industrial-maps run build",
+    "preview": "npm --prefix industrial-maps run preview"
+  },
+  "dependencies": {
+    "firebase": "^12.14.0"
+  }
+}
